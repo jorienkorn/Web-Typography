@@ -76,7 +76,7 @@ body {
 }
 
 .music {
-    font-family: "Brenner Mono Light Italic";
+    font-family: "Brenner Mono Light";
     font-style: normal;
     font-weight: 200;
     letter-spacing: -1px;
@@ -84,10 +84,11 @@ body {
     color: darkgrey;
 /*    text-align: center;*/
     margin-top: -4%;
+    margin-left: 30%;
 }
 
 .pitch {
-    font-family: "Brenner Mono Light Italic";
+    font-family: "Brenner Mono Light";
     font-style: normal;
     font-weight: 200;
     letter-spacing: -1px;
