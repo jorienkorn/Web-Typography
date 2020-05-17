@@ -11,15 +11,15 @@ captions[81] = ['9.0','9.8'];
 //Idk
 captions[2] = ['10.8','12.5'];
 	//And blood-black nothingness began to spin
-captions[3] = ['12.5','15.6'];
+captions[3] = ['12.5','15.5'];
 
 //Faint voice over radio
-captions[82] = ['15.8','17.0'];
+captions[82] = ['15.6','17.0'];
 
 captions[4] = ['17.369','20'];
 captions[5] = ['20.1','23.3'];
 	//Fuck off, skin-job!
-captions[6] = ['23.3','25.2'];
+captions[6] = ['23.3','25'];
 
 //Tweede beep
 captions[83] = ['25.5','26.5'];
@@ -84,8 +84,8 @@ captions[41] = ['69.1','70.6'];
 captions[42] = ['70.6','72.2'];
 captions[43] = ['72.2','74.2'];
 
-//High pitched ringing intensifies
-captions[86] = ['75','76'];
+//High pitched ringing stops
+captions[86] = ['74.9','76.5'];
 
 
 	// We're done.
