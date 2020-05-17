@@ -11,8 +11,8 @@ In het eerste Prototype heb ik gebruik gemaakt van het systeemfont om het in eer
 [Prototype 2](https://jorienkorn.github.io/Web-Typography/closed-captions-v2/index.html)
 
 Naar aanleiding van de eerste test met Darice en de feedback van Vasilis heb ik een paar veranderingen gemaakt. De volgende punten heb ik meegenomen/behandelt:
-    - Het gevoel van de film komt niet over met de beschrijvende tekst van geluiden. 
-    - De groene kleur is niet leesbaar op de witte achtergrond.
+    1. Het gevoel van de film komt niet over met de beschrijvende tekst van geluiden. 
+    2. De groene kleur is niet leesbaar op de witte achtergrond.
     
 In deze versie heb ik gekozen om toch wel gebruik te maken van het Brenner font, specifiek de 'Mono' type, omdat ik dit beter bij de film vind passen. De film is futuristisch en in het fragment wordt Joe ondervraagt door een robot. Er is een lack aan emotie en daar vind ik het lettertype erg goed voor.
 
