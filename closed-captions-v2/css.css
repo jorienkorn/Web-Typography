@@ -131,23 +131,28 @@ body {
     animation-duration: 1s;
     animation-name: sireneAnimation;
     animation-iteration-count: ease-in-out;
+    transition: all 1s ease;
 }
 
 @keyframes sireneAnimation {
     0% {
         background-color: #000000;
+        transition: all 1s ease;
     }
     
     25% {
         background: linear-gradient(90deg, rgba(0,0,0,1) 25%, rgba(190,22,34,1) 50%, rgba(190,22,34,1) 50%, rgba(0,0,0,1) 75%);
+        transition: all 1s ease;
     }
     
     75% {
         background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(190,22,34,1) 50%, rgba(190,22,34,1) 50%, rgba(0,0,0,1) 100%);
+        transition: all 1s ease;
     }
     
     100% {
         background-color: #000000;
+        transition: all 1s ease;
     }
 }
 
