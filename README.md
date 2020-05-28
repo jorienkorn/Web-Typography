@@ -22,3 +22,5 @@ In deze versie heb ik gekozen om toch wel gebruik te maken van het Brenner font,
 Ook heb ik nog goed gekeken naar het kleurgebruik. Ik had in eerste instantie opgezocht welke kleuren vaak gebruikt worden voor ondertiteling en daarbij andere felle kleuren gezocht voor de rest van de stemmen. Na nog een keer goed te hebben gekeken heb ik doffe kleuren gekozen zodat dit ook aansluit bij het gevoel van de film.
 
 # Eindversie
+
+[Eindversie](https://jorienkorn.github.io/Web-Typography/closed-captions-v3/index.html)
