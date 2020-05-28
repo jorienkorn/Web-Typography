@@ -1,6 +1,6 @@
 # Web Typography by Jorien Korn
  
-Voor dit vak bewerk ik een fragment van de film Blade Runner 2049 op een manier dat de emotie die hoort bij dit fragment voor iemand die doof is nog steeds overkomt. Met de hedendaagse guidelines die gebruikt worden voor closed captioning komt er geen emotie naar voren. Er staat bijvoorbeeld heel statisch '[music is playing]' maar muziek is niet statisch, is het hard? Snel? Luid? Zacht? Rock? Romantisch? Dit verschilt per film, per scene. Voor iemand die niet kan horen gaat al deze informatie verloren. In het fragment van Blade Runner 2049 gaat het precies zo, het eigenlijk een aardig saaie film qua beeld. Het geluid is wat deze scenes spannend maakt, aan mij de opdracht om dit te visualiseren.
+Voor dit vak bewerk ik een fragment van de film Blade Runner 2049 op een manier dat de emotie die hoort bij dit fragment voor iemand die doof is nog steeds overkomt. Met de hedendaagse guidelines die gebruikt worden voor closed captioning komt er geen emotie naar voren. Er staat bijvoorbeeld heel statisch '[music is playing]' maar muziek is niet statisch, is het hard? Snel? Luid? Zacht? Rock? Romantisch? Dit verschilt per film en per scene, maar is wel bepalend voor de sfeer van het moment. Voor iemand die niet kan horen gaat al deze informatie verloren. In het fragment van Blade Runner 2049 gaat het precies zo, het eigenlijk een aardig saaie film qua beeld. Het geluid is wat deze scenes spannend maakt, aan mij de opdracht om dit te visualiseren.
 
 
 # Identiteiten vaststellen
@@ -13,7 +13,7 @@ Darice is 38 jaar, woont in Den Haag en werkt als front-end developer. Ze is nie
 Persoonlijk ben ik van een clean, consistente en soms wat minimalistische look. Ik vind snel dingen rommelig of too much en dat probeer ik altijd te voorkomen. Ik doe genoeg om de boodschap, look, feel, etc. over te laten komen maar zonder dat het opdringerig is of in-your-face.
 
 ## De film
-Ik keek de film pas nadat de opdracht werd gegeven dus ik lette vanaf het begin al erg op de geluiden in de film. Visueel gezien is het niet altijd even spannend, het is een futuristische film waar ze heel serieus te werk gaan. Gesprekken zijn monotoon, emotieloos en eigenlijk saai. De muziek bij de scenes is wat het spanning en een sfeer geeft.
+Ik keek de film pas nadat de opdracht werd gegeven dus ik lette vanaf het begin al erg op de geluiden in de film. Visueel gezien is het niet altijd even spannend, het is een grauwe futuristische film waar ze heel serieus te werk gaan. Gesprekken zijn monotoon, emotieloos en eigenlijk saai. De muziek bij de scenes is wat het spanning en een sfeer geeft.
 
 
 # Proces
@@ -54,7 +54,14 @@ In deze versie heb ik gewerkt aan de punten die ik de vorige keer heb gekregen, 
 ## [Eindversie](https://jorienkorn.github.io/Web-Typography/closed-captions-v3/index.html)
 <img src="images/prototype3.png" width="100%">
 
-In deze versie heb ik de feedback van vorige keer verwerkt en de scenes verder uitgewerkt. Ik heb bijvoorbeeld nu ook het achtergrond geluid in het begin gevisualiseerd en het geluid dat afspeelt in de tweede scene. Ik heb het lettertype vergroot zodat het beter leesbaar is, daarbij heb ik ook het beeld vergroot zodat er nog een goede verhouding is tussen tekst en beeld.
+In deze versie heb ik de feedback van vorige keer verwerkt, ik heb bijvoorbeeld het lettertype vergroot zodat het beter leesbaar is. Daarbij heb ik ook meteen het beeld vergroot zodat er nog een goede verhouding is tussen tekst en beeld. Andere dingen die ik heb aangepast zijn:
+* Achtergrond geluid in het begin gevisualiseerd
+* De tweede scene uitgewerkt
+* De plaatsing van de tekst van het geluid op een andere regel gezet. Dit komt nu op zijn eigen regel te staan onder het dialoog, in plaats van op dezelfde hoogte zoals voorheen, omdat soms geluiden door elkaar heen lopen. Op deze manier kan ik zowel dialoog als geluid tegelijk tonen.
+* Betere beschrijving van de geluiden
+* Andere vormgeving voor de scanner
+* Italic voor de binnenstem (gepraat offscreen) gebruikt en Normal als ze in beeld zijn
+* Een blur toegevoegd aan het einde van de high pitch zodat je sterker het gevoel krijgt dat het geluid heel hoog is
 
 
 # Gemaakte keuzes
@@ -69,7 +76,9 @@ Maar waarom alleen het 'Mono' type? Darice houdt van consistentie, ik van niet r
 ## Kleur en vlakverdeling
 <img src="images/prototype1.png" width="50%"><img src="images/prototype3.png" width="50%">
 
-Ik had in eerste instantie opgezocht welke kleuren vaak gebruikt worden voor ondertiteling en daarbij andere felle kleuren gezocht voor de rest van de stemmen zodat het aansluit op Darice haar behoefte voor neon kleuren. Na nog een keer goed te hebben gekeken, heb ik doffe kleuren gekozen zodat dit ook aansluit bij het gevoel van de film, de film is namelijk erg grauw en serieus. Ondanks dat Darice neon kleuren erg leuk vind heb ik toch besloten om hiervoor te gaan. Ik neem op deze manier wel van haar mee dat ze verschillende kleuren fijn vind, alleen pas ik aan hoe fel deze zijn zodat het aansluit bij de identiteit van de film.
+Ik had in eerste instantie opgezocht welke kleuren vaak gebruikt worden voor ondertiteling en daarbij andere felle kleuren gezocht voor de rest van de stemmen zodat het aansluit op Darice haar behoefte voor neon kleuren. Na nog een keer goed te hebben gekeken, heb ik doffe kleuren gekozen zodat dit ook aansluit bij het gevoel van de film, de film is namelijk erg grauw en serieus. Ondanks dat Darice neon kleuren erg leuk vind heb ik toch besloten om hiervoor te gaan. Ik neem op deze manier wel van haar mee dat ze verschillende kleuren fijn vind, alleen pas ik aan hoe fel deze zijn en in welke tonen ze komen zodat het aansluit op de identiteit van de film.
+
+Ik heb ervoor gekozen om het beeld in het midden te zetten zodat er een goede verhouding is tussen links en rechts. Soms komt een geluid van links en daarna van rechts, op de manier heb ik aan beide kanten genoeg ruimte om de visualisaties te laten zien.
 
 
 # Exclusive Design Principles
