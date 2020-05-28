@@ -2,6 +2,7 @@
  
 Voor dit vak bewerk ik een fragment van de film Blade Runner 2049 op een manier dat de emotie die hoort bij dit fragment voor iemand die doof is nog steeds overkomt. Met de hedendaagse guidelines die gebruikt worden voor closed captioning komt er geen emotie naar voren. Er staat bijvoorbeeld heel statisch '[music is playing]' maar muziek is niet statisch, is het hard? snel? luid? zacht? rock? romantisch? Dit verschilt per film, per scene. Voor iemand die niet kan horen gaat al deze informatie verloren. In het fragment van Blade Runner gaat het precies zo, het eigenlijk een hele saaie film qua beeld. Het geluid is wat deze scenes spannend maakt, aan mij de opdracht om dit te visualiseren.
 
+
 # Concept
 Dit fragment wordt specifiek voor één persoon ontworpen, en dat is Darice de Cuba in mijn geval. In het eerste kennismakingsgesprek heb ik haar een beetje leren kennen zodat ik met haar voorkeuren en inzichten te werk kan gaan en ze kan samenvoegen met de mijne en die van de film. 
 
@@ -66,7 +67,9 @@ In deze versie heb ik de feedback van vorige keer verwerkt en de scenes verder u
 Ik heb ervoor gekozen om toch wel gebruik te maken van het Brenner font, specifiek de 'Mono' type, omdat ik dit beter bij de film vind passen. De film is futuristisch en in het fragment wordt Joe ondervraagt door een robot. Er is een lack aan emotie en daar vind ik het lettertype erg goed voor.
 
 ## Kleur en vlakverdeling
+<img src="images/prototype1.png" width="50%"><img src="images/prototype3.png" width="50%">
 Ook heb ik nog goed gekeken naar het kleurgebruik. Ik had in eerste instantie opgezocht welke kleuren vaak gebruikt worden voor ondertiteling en daarbij andere felle kleuren gezocht voor de rest van de stemmen. Na nog een keer goed te hebben gekeken heb ik doffe kleuren gekozen zodat dit ook aansluit bij het gevoel van de film.
+
 
 # Exclusive Design Principles
 
@@ -89,3 +92,4 @@ Een lastige voor mij, maar toch heb ik me laten mee gaan hierin. Ik vond het hee
 * [Closed Captioning](https://www.3playmedia.com/resources/popular-topics/closed-captioning/)
 * [Subtitle Design](https://blog.prototypr.io/subtitles-were-never-designed-the-missing-element-in-tv-typography-design-4277d777548d)
 * [Subtitles VS Closed Captions](https://www.rev.com/blog/subtitles-vs-captions)
+* [CSS gradients](https://cssgradient.io)
