@@ -9,7 +9,7 @@ Dit fragment wordt specifiek voor één persoon ontworpen, en dat is Darice de C
 ## Darice de Cuba
 Darice is 38 jaar, woont in Den Haag en werkt als front-end developer. Ze is niet altijd al doof geweest, om deze reden weet ze wel nog hoe sommige geluiden zouden klinken. Ze is bijvoorbeeld erg fan van de TV show Friends en kan hun stemmen nog steeds herinneren. Qua vormgeving is ze de standaard regels gewent voor closed captions, bijvoorbeeld muziek en geluiden tussen brackets plaatsen (met een duidelijke omschrijving van wat!). Persoonlijk vind ze het erg fijn als de vormgeving van elke persoon anders is, dit hoeft niet over-the-top (ze houdt namelijk erg van minimalisme) maar het kan subtiel door alleen de kleur te veranderen bijvoorbeeld. Zolang deze vormgeving maar consistent is. Ook vind ze het fijn als de tekst bijvoorbeeld schuingedrukt komt te staan als de persoon niet in beeld is, dit is namelijk voor iemand die doof is niet te raden en een visuele que hiervoor zou dus ideaal zijn.
 
-## Jorien Korn (me)
+## Jorien Korn
 Persoonlijk ben ik van een clean, consistente en soms wat minimalistische look. Ik vind snel dingen rommelig of too much en dat probeer ik altijd te voorkomen. Ik doe genoeg om de boodschap, look, feel, etc. over te laten komen maar zonder dat het opdringerig is of in-your-face.
 
 ## De film
@@ -24,7 +24,7 @@ Ik keek de film pas nadat de opdracht werd gegeven dus ik lette vanaf het begin 
 In het eerste prototype heb ik gebruik gemaakt van het systeemfont om het in eerste instantie uit te proberen of zo de sfeer van de film over komt. Verder heb ik de captions uitgebreid zodat Darice ook weet wanneer er geluid wordt afgespeelt en wie er praat. Alleen van deze ruwe versie kreeg ik al veel feedback punten om mee verder te gaan: 
 
 ### Darice
-* Joe's binnenstem visualiseren
+* Er is nog geen onderscheid tussen Joe's binnenstem en stem als hij in beeld is (alles is cursief)
 * De groen gebruikt voor "Fuck off, skin job!" was niet goed te lezen
 * Ze wilt zoveel mogelijk geluiden (gevisualiseerd) zien zodat ze de hele movie experience krijgt net zoals ons
 * Altijd [naam] als iemand aan het woord komt ondanks dat de vormgeving al bekend is
@@ -47,7 +47,6 @@ In deze versie heb ik gewerkt aan de punten die ik de vorige keer heb gekregen, 
 * Contrast van de muziek tekst mag wat hoger
 
 ### Vasilis
-* Wilt graag screenshots in de read.me zien voor de onderbouwingen
 * Vond de uitwerking van de geluiden ook erg leuk
 
 
@@ -71,7 +70,7 @@ In deze versie heb ik de feedback van vorige keer verwerkt, ik heb bijvoorbeeld 
 
 Ik heb ervoor gekozen om toch wel gebruik te maken van het Brenner font, specifiek en exclusief de 'Mono' type, omdat ik dit beter bij de film vind passen. De film is futuristisch en in het fragment wordt Joe ondervraagt door een robot. Er is een lack aan emotie en daar vind ik het lettertype op aansluiten omdat deze soort lettertypes vaak worden gebruikt voor technische/futuristische uitingen zoals code, robots en computers.
 
-Maar waarom alleen het 'Mono' type? Darice houdt van consistentie, ik van niet rommelig en de film is futuristisch, perfecte combinatie om exclusief gebruik te maken van dit lettertype. Darice vind verschillende lettertypes niet erg zolang ze maar consistent zijn met degene die praat, maar persoonlijk vind ik het dan rommelig worden. Hierboven heb ik daarvan een voorbeeld laten zien.
+Maar waarom alleen het 'Mono' type? Darice houdt van consistentie, ik van niet rommelig en de film is futuristisch, perfecte combinatie om exclusief gebruik te maken van dit lettertype. Darice vind verschillende lettertypes niet erg zolang ze maar consistent zijn met degene die praat, maar persoonlijk vind ik het dan rommelig worden. Ook vind ik niet dat de andere Brenner versies dezelfde sfeer dragen als de film zoals Mono dat doet. Hierboven heb ik daarvan een voorbeeld laten zien.
 
 ## Kleur en vlakverdeling
 <img src="images/prototype1.png" width="50%"><img src="images/prototype3.png" width="50%">
@@ -84,16 +83,16 @@ Ik heb ervoor gekozen om het beeld in het midden te zetten zodat er een goede ve
 # Exclusive Design Principles
 
 ## Study situation
-Ik ken niemand die doof is maar ben er wel al een paar jaar bewust van dat het hier en daar een hindernis kan zijn. Ik heb daarom weleens geprobeerd om basic gebarentaal te leren (just in case) en bij YouTube videos closed captions te voorzien. Qua vormgeving op het niveau wat we nu doen weet ik eigenlijk niks van, daarom heb ik eerst wat artikelen gelezen (zie 'Bronnen') over regels voor ondertiteling en specifiek voor dove mensen zodat ik meer te weten kom over hoe dit te werk gaat en toegepast wordt. Wel vond ik het lastig om informatie te vinden over hoe je geluiden kan visualiseren voor dove mensen, dit is iets wat ik zelf heb moeten ervaren en uitvinden tijdens de feedbackgesprekken met Darice.
+Ik ken niemand die doof is maar ben er wel al een paar jaar bewust van dat het hier en daar een hindernis kan zijn. Ik heb daarom weleens geprobeerd om basic gebarentaal te leren (just in case) en bij YouTube videos closed captions te voorzien. Qua vormgeving op het niveau wat we nu doen weet ik eigenlijk niks van, daarom heb ik eerst wat artikelen gelezen (zie 'Bronnen' onderaan) over regels voor ondertiteling en specifiek voor dove mensen zodat ik meer te weten kom over hoe dit te werk gaat en toegepast wordt. Wel vond ik het lastig om informatie te vinden over hoe je geluiden kan visualiseren voor dove mensen, dit is iets wat ik zelf heb moeten ervaren en uitvinden tijdens de feedbackgesprekken met Darice.
 
 ## Ignore conventions
-Het "normale" om te doen bij een film die voor dove mensen toegankelijk moet zijn is closed captions toevoegen en that's it. Met deze opdracht ging ik veel verder dan dat. Er verschijnen kleuren en gradients in bepaalde vormen om geluiden visueel uit te beelden in de ruimte om de film heen en het beeld begint zelfs met schudden op een gegeven moment. Dit is niet iets wat je standaard ziet bij een film, maar wel wat nodig is om de doelgroep die doof is een bepaalde sfeer mee te geven.
+Het "normale" om te doen bij een film die voor dove mensen toegankelijk moet zijn is closed captions toevoegen en that's it. Met deze opdracht ging ik veel verder dan dat. Er verschijnen kleuren en gradients in bepaalde vormen om geluiden visueel uit te beelden in de ruimte om de film heen en het beeld begint zelfs met schudden op een gegeven moment. Dit is niet iets wat je standaard ziet bij een film, maar wel wat nodig is om de doelgroep die doof is een bepaalde sfeer van de scene en geluiden mee te geven. Ook is de tekst normaal standaard maar één kleur, in deze uitwerking heeft elke character zijn eigen kleur.
 
 ## Prioritise identity
-Darice staat voorop omdat zij degene is die mijn ontwerp ervaart, zij is degene die een fijne en versterkte ervaring moet krijgen van deze scenes. Wat zij wilde heb ik, als visual designer, kunnen vertalen naar de praktijk. In combinatie met mijn kennis en eigen identiteit heb ik veel keuzes en feedback kunnen nemen van Darice en die kunnen vertalen.
+Darice staat voorop omdat zij degene is die mijn ontwerp ervaart, zij is degene die een fijne en versterkte ervaring moet krijgen van deze scenes aangezien dit momenteel voor haar ontbreekt. Haar voorkeuren en ervaring in combinatie met mijn kennis en eigen identiteit heb ik veel keuzes en feedback kunnen nemen van Darice en die kunnen vertalen naar een uiting die een unieke kijkervaring voor haar biedt.
 
 ## Add nonsense
-Een lastige voor mij, maar toch heb ik me laten mee gaan hierin. Ik vond het heel raar om dingen om het beeld heen toe te voegen, dat hoort toch namelijk niet? Maar toch heb ik gradients in de vorm van een scanner toegevoegd, of een schuddend beeld, of een achtergrond die van kleur verandert gebaseerd op de muziek. Ook komt "Fuck off, skin job!" op het beeld te staan bij de persoon die het zegt.
+Een lastige voor mij, maar toch heb ik me laten mee gaan hierin. Ik vond het heel raar om dingen om het beeld heen toe te voegen, dat hoort toch namelijk niet? Maar toch heb ik gradients in de vorm van een scanner toegevoegd, of een schuddend beeld, of een achtergrond die van kleur verandert gebaseerd op de muziek. Ook komt "Fuck off, skin job!" op het beeld te staan bij de persoon die het zegt. Als je het vergelijkt met wat nu de standaard is, slaat dit allemaal nergens op. Terwijl in context, een film net zo toegankelijk maken voor dove mensen, is het hartstikke logisch en zou de nieuwe standaard moeten zijn.
 
 
 # Bronnen
