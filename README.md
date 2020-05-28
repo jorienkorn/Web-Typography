@@ -67,7 +67,7 @@ In deze versie heb ik de feedback van vorige keer verwerkt, ik heb bijvoorbeeld 
 # Gemaakte keuzes
 
 ## Typografie
-<img src="images/prototype3.png" width="50%"><img src="images/prototype3.png" width="50%">
+<img src="images/typovoorbeeld.png" width="50%"><img src="images/prototype3.png" width="50%">
 
 Ik heb ervoor gekozen om toch wel gebruik te maken van het Brenner font, specifiek en exclusief de 'Mono' type, omdat ik dit beter bij de film vind passen. De film is futuristisch en in het fragment wordt Joe ondervraagt door een robot. Er is een lack aan emotie en daar vind ik het lettertype op aansluiten omdat deze soort lettertypes vaak worden gebruikt voor technische/futuristische uitingen zoals code, robots en computers.
 

@@ -39,58 +39,68 @@ body {
 
 /*  D E  S T E M M E N  */
 
-.voice1 /*male interviewer*/ {
+.voice1
+
+/*male interviewer*/
+    {
     color: yellow;
-    font-family: "Brenner Mono Light";
+    font-family: "Brenner Regular";
     font-style: Normal;
-    font-weight: 200;
-    letter-spacing: -1px;
+    font-weight: 400;
     margin-top: -4em;
     margin-left: 16.5em;
     z-index: 99;
 }
 
-.voice1off /*male interviewer off screen*/ {
+.voice1off
+
+/*male interviewer off screen*/
+    {
     color: yellow;
-    font-family: "Brenner Mono Light Italic";
-    font-style: Italic;
-    font-weight: 200;
-    letter-spacing: -1px;
+    font-family: "Brenner Regular";
+    font-style: Normal;
+    font-weight: 400;
     margin-top: -4em;
     margin-left: 16.5em;
     z-index: 99;
 }
 
-.voice2 /*joe*/ {
+.voice2
+
+/*joe*/
+    {
     color: white;
-    font-family: "Brenner Mono Light";
+    font-family: "Brenner Regular";
     font-style: Normal;
-    font-weight: 200;
-    letter-spacing: -1px;
+    font-weight: 400;
     /*    text-align: end;*/
     margin-top: -4em;
     margin-left: 16.5em;
     z-index: 99;
 }
 
-.voice2off /*joe off screen*/ {
+.voice2off
+
+/*joe off screen*/
+    {
     color: white;
-    font-family: "Brenner Mono Light Italic";
-    font-style: italic;
-    font-weight: 200;
-    letter-spacing: -1px;
+    font-family: "Brenner Regular";
+    font-style: Normal;
+    font-weight: 400;
     /*    text-align: end;*/
     margin-top: -4em;
     margin-left: 16.5em;
     z-index: 99;
 }
 
-.voice3 /*stranger*/ {
+.voice3
+
+/*stranger*/
+    {
     color: darkseagreen;
     font-family: "Brenner Mono";
     font-style: Normal;
     font-weight: 400;
-    letter-spacing: -1px;
     position: absolute;
     margin-top: -12em;
     text-transform: capitalize;
@@ -98,11 +108,13 @@ body {
     z-index: 99;
 }
 
-.voice4 /*unindentified man*/ {
+.voice4
+
+/*unindentified man*/
+    {
     font-family: "Brenner Mono Light Italic";
     font-style: italic;
     font-weight: 200;
-    letter-spacing: -1px;
     color: sandybrown;
     margin-top: -4em;
     margin-left: 16.5em;
@@ -110,10 +122,9 @@ body {
 }
 
 .music {
-    font-family: "Brenner Mono Light";
-    font-style: normal;
-    font-weight: 200;
-    letter-spacing: -1px;
+    font-family: "Brenner Sans";
+    font-style: Normal;
+    font-weight: 800;
     color: #B3B3B3;
     margin-top: -1.2em;
     margin-left: 16.5em;
