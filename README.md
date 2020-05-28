@@ -78,13 +78,13 @@ Maar waarom alleen het 'Mono' type? Darice houdt van consistentie, ik van niet r
 
 Ik had in eerste instantie opgezocht welke kleuren vaak gebruikt worden voor ondertiteling en daarbij andere felle kleuren gezocht voor de rest van de stemmen zodat het aansluit op Darice haar behoefte voor neon kleuren. Na nog een keer goed te hebben gekeken, heb ik doffe kleuren gekozen zodat dit ook aansluit bij het gevoel van de film, de film is namelijk erg grauw en serieus. Ondanks dat Darice neon kleuren erg leuk vind heb ik toch besloten om hiervoor te gaan. Ik neem op deze manier wel van haar mee dat ze verschillende kleuren fijn vind, alleen pas ik aan hoe fel deze zijn en in welke tonen ze komen zodat het aansluit op de identiteit van de film.
 
-Ik heb ervoor gekozen om het beeld in het midden te zetten zodat er een goede verhouding is tussen links en rechts. Soms komt een geluid van links en daarna van rechts, op de manier heb ik aan beide kanten genoeg ruimte om de visualisaties te laten zien.
+Ik heb ervoor gekozen om het beeld in het midden te zetten zodat er een goede verhouding is tussen links en rechts. Soms komt een geluid van links en daarna van rechts, op deze manier heb ik aan beide kanten genoeg ruimte om de visualisaties te laten zien.
 
 
 # Exclusive Design Principles
 
 ## Study situation
-Ik ken niemand die doof is maar ben er wel al een paar jaar bewust van dat het hier en daar een hindernis kan zijn. Ik heb daarom weleens geprobeerd om basic gebarentaal te leren (just in case) en bij YouTube videos closed captions te voorzien. Qua vormgeving op het niveau wat we nu doen weet ik eigenlijk niks van, daarom heb ik eerst wat artikelen gelezen (zie bronnen) over regels voor ondertiteling en specifiek voor dove mensen zodat ik meer te weten kom over hoe dit te werk gaat. Wel vond ik het lastig om informatie te vinden over hoe je geluiden kan visualiseren voor dove mensen, dit is iets wat ik zelf heb moeten ervaren en uitvinden tijdens de feedbackgesprekken met Darice.
+Ik ken niemand die doof is maar ben er wel al een paar jaar bewust van dat het hier en daar een hindernis kan zijn. Ik heb daarom weleens geprobeerd om basic gebarentaal te leren (just in case) en bij YouTube videos closed captions te voorzien. Qua vormgeving op het niveau wat we nu doen weet ik eigenlijk niks van, daarom heb ik eerst wat artikelen gelezen (zie 'Bronnen') over regels voor ondertiteling en specifiek voor dove mensen zodat ik meer te weten kom over hoe dit te werk gaat en toegepast wordt. Wel vond ik het lastig om informatie te vinden over hoe je geluiden kan visualiseren voor dove mensen, dit is iets wat ik zelf heb moeten ervaren en uitvinden tijdens de feedbackgesprekken met Darice.
 
 ## Ignore conventions
 Het "normale" om te doen bij een film die voor dove mensen toegankelijk moet zijn is closed captions toevoegen en that's it. Met deze opdracht ging ik veel verder dan dat. Er verschijnen kleuren en gradients in bepaalde vormen om geluiden visueel uit te beelden in de ruimte om de film heen en het beeld begint zelfs met schudden op een gegeven moment. Dit is niet iets wat je standaard ziet bij een film, maar wel wat nodig is om de doelgroep die doof is een bepaalde sfeer mee te geven.
@@ -93,10 +93,10 @@ Het "normale" om te doen bij een film die voor dove mensen toegankelijk moet zij
 Darice staat voorop omdat zij degene is die mijn ontwerp ervaart, zij is degene die een fijne en versterkte ervaring moet krijgen van deze scenes. Wat zij wilde heb ik, als visual designer, kunnen vertalen naar de praktijk. In combinatie met mijn kennis en eigen identiteit heb ik veel keuzes en feedback kunnen nemen van Darice en die kunnen vertalen.
 
 ## Add nonsense
-Een lastige voor mij, maar toch heb ik me laten mee gaan hierin. Ik vond het heel raar om dingen om het beeld heen toe te voegen, dat hoort toch namelijk niet? Maar toch heb ik gradients in de vorm van een scanner toegevoegd, of een schuddend beeld, of een achtergrond die van kleur verandert gebaseerd op de muziek.
+Een lastige voor mij, maar toch heb ik me laten mee gaan hierin. Ik vond het heel raar om dingen om het beeld heen toe te voegen, dat hoort toch namelijk niet? Maar toch heb ik gradients in de vorm van een scanner toegevoegd, of een schuddend beeld, of een achtergrond die van kleur verandert gebaseerd op de muziek. Ook komt "Fuck off, skin job!" op het beeld te staan bij de persoon die het zegt.
 
 
-# Sources
+# Bronnen
 * [Exclusive Design Principles](https://exclusive-design.vasilis.nl)
 * [Captions: Sound Effects and Music](https://www.captioningkey.org/sound_effects.html)
 * [Closed Captioning](https://www.3playmedia.com/resources/popular-topics/closed-captioning/)
