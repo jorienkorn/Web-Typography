@@ -59,7 +59,7 @@ In deze versie heb ik de feedback van vorige keer verwerkt, ik heb bijvoorbeeld 
 * De plaatsing van de tekst van het geluid op een andere regel gezet. Dit komt nu op zijn eigen regel te staan onder het dialoog, in plaats van op dezelfde hoogte zoals voorheen, omdat soms geluiden door elkaar heen lopen. Op deze manier kan ik zowel dialoog als geluid tegelijk tonen.
 * Betere beschrijving van de geluiden
 * Andere vormgeving voor de scanner
-* Italic voor de binnenstem (gepraat offscreen) gebruikt en Normal als ze in beeld zijn
+* Italic voor de binnenstem (gepraat off-screen) gebruikt en Normal als ze in beeld zijn
 * Een blur toegevoegd aan het einde van de high pitch zodat je sterker het gevoel krijgt dat het geluid heel hoog is
 
 
@@ -83,16 +83,16 @@ Ik heb ervoor gekozen om het beeld in het midden te zetten zodat er een goede ve
 # Exclusive Design Principles
 
 ## Study situation
-Ik ken niemand die doof is maar ben er wel al een paar jaar bewust van dat het hier en daar een hindernis kan zijn. Ik heb daarom weleens geprobeerd om basic gebarentaal te leren (just in case) en bij YouTube videos closed captions te voorzien. Qua vormgeving op het niveau wat we nu doen weet ik eigenlijk niks van, daarom heb ik eerst wat artikelen gelezen (zie 'Bronnen' onderaan) over regels voor ondertiteling en specifiek voor dove mensen zodat ik meer te weten kom over hoe dit te werk gaat en toegepast wordt. Wel vond ik het lastig om informatie te vinden over hoe je geluiden kan visualiseren voor dove mensen, dit is iets wat ik zelf heb moeten ervaren en uitvinden tijdens de feedbackgesprekken met Darice.
+Ik ken niemand die doof is maar ben er wel al een paar jaar bewust van dat het hier en daar een hindernis kan zijn. Ik heb daarom weleens geprobeerd om basic gebarentaal te leren (just in case) en bij YouTube videos closed captions te voorzien. Qua vormgeving op het niveau wat we nu doen weet ik eigenlijk niks van, daarom heb ik eerst wat artikelen gelezen (zie 'Bronnen' onderaan) over regels voor ondertiteling en specifiek voor dove mensen zodat ik meer te weten kwam over hoe dit te werk gaat en toegepast wordt. Wel vond ik het lastig om informatie te vinden over hoe je geluiden kan visualiseren voor dove mensen, dit is iets wat ik zelf heb moeten ervaren en uitvinden tijdens de feedbackgesprekken met Darice.
 
 ## Ignore conventions
 Het "normale" om te doen bij een film die voor dove mensen toegankelijk moet zijn is closed captions toevoegen en that's it. Met deze opdracht ging ik veel verder dan dat. Er verschijnen kleuren en gradients in bepaalde vormen om geluiden visueel uit te beelden in de ruimte om de film heen en het beeld begint zelfs met schudden op een gegeven moment. Dit is niet iets wat je standaard ziet bij een film, maar wel wat nodig is om de doelgroep die doof is een bepaalde sfeer van de scene en geluiden mee te geven. Ook is de tekst normaal standaard maar één kleur, in deze uitwerking heeft elke character zijn eigen kleur.
 
 ## Prioritise identity
-Darice staat voorop omdat zij degene is die mijn ontwerp ervaart, zij is degene die een fijne en versterkte ervaring moet krijgen van deze scenes aangezien dit momenteel voor haar ontbreekt. Haar voorkeuren en ervaring in combinatie met mijn kennis en eigen identiteit heb ik veel keuzes en feedback kunnen nemen van Darice en die kunnen vertalen naar een uiting die een unieke kijkervaring voor haar biedt.
+Darice staat voorop omdat zij degene is die mijn ontwerp ervaart, zij is degene die een fijne en versterkte ervaring moet krijgen van deze scenes aangezien dit momenteel voor haar ontbreekt. Haar voorkeuren en ervaring in combinatie met mijn kennis en eigen identiteit hebben ervoor gezorgt dat ik veel keuzes kon maken en feedback kon nemen van Darice en die kunnen vertalen naar een uiting die een unieke kijkervaring voor haar biedt.
 
 ## Add nonsense
-Een lastige voor mij, maar toch heb ik me laten mee gaan hierin. Ik vond het heel raar om dingen om het beeld heen toe te voegen, dat hoort toch namelijk niet? Maar toch heb ik gradients in de vorm van een scanner toegevoegd, of een schuddend beeld, of een achtergrond die van kleur verandert gebaseerd op de muziek. Ook komt "Fuck off, skin job!" op het beeld te staan bij de persoon die het zegt. Als je het vergelijkt met wat nu de standaard is, slaat dit allemaal nergens op. Terwijl in context, een film net zo toegankelijk maken voor dove mensen, is het hartstikke logisch en zou de nieuwe standaard moeten zijn.
+Ik vond het heel raar om dingen om het beeld heen toe te voegen, dat hoort toch namelijk niet? Maar toch heb ik gradients in de vorm van een scanner toegevoegd, of een schuddend beeld, of een achtergrond die van kleur verandert gebaseerd op de muziek. Ook komt "Fuck off, skin job!" op het beeld te staan bij de persoon die het zegt. Als je het vergelijkt met wat nu de standaard is, slaat dit allemaal nergens op. Terwijl in context, een film net zo toegankelijk maken voor dove mensen, is het hartstikke logisch en zou de nieuwe standaard moeten zijn.
 
 
 # Bronnen
@@ -101,4 +101,5 @@ Een lastige voor mij, maar toch heb ik me laten mee gaan hierin. Ik vond het hee
 * [Closed Captioning](https://www.3playmedia.com/resources/popular-topics/closed-captioning/)
 * [Subtitle Design](https://blog.prototypr.io/subtitles-were-never-designed-the-missing-element-in-tv-typography-design-4277d777548d)
 * [Subtitles VS Closed Captions](https://www.rev.com/blog/subtitles-vs-captions)
+* [Inclusive Design](https://www.youtube.com/watch?v=M0cR_HTeWUo)
 * [CSS gradients](https://cssgradient.io)
