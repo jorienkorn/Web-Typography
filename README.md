@@ -14,15 +14,14 @@ Persoonlijk ben ik van een clean, consistente en soms wat minimalistische look. 
 ## De film
 Ik keek de film pas nadat de opdracht werd gegeven dus ik lette vanaf het begin al erg op de geluiden in de film. Visueel gezien is het niet altijd even spannend, het is een futuristische film waar ze heel serieus te werk gaan. Gesprekken zijn monotoon, emotieloos en eigenlijk saai. De muziek bij de scenes is wat het spanning en een sfeer geeft.
 
+## Conclusie
 Voor het concept denk ik dat de indentiteiten van alle drie de partijen op de meeste vlakken overeen komt waardoor er een sterke consistente vormgeving kan ontstaan.
 
 
 # Proces
 
-## Prototype 1
+## [Prototype 1](https://jorienkorn.github.io/Web-Typography/closed-captions-v1/index.html)
 <img src="images/prototype1.png" width="100%">
-
-[Prototype 1](https://jorienkorn.github.io/Web-Typography/closed-captions-v1/index.html)
 
 In het eerste prototype heb ik gebruik gemaakt van het systeemfont om het in eerste instantie uit te proberen of zo de sfeer van de film over komt. Verder heb ik de captions uitgebreid zodat Darice ook weet wanneer er geluid wordt afgespeelt en wie er praat. Alleen van deze ruwe versie kreeg ik al veel feedback punten om mee verder te gaan: 
 
