@@ -36,35 +36,33 @@ In het eerste prototype heb ik gebruik gemaakt van het systeemfont om het in eer
 * Alleen een tag [geluid] brengt het gevoel van de film niet over
 
 
-## Prototype 2
+## [Prototype 2](https://jorienkorn.github.io/Web-Typography/closed-captions-v2/index.html)
 <img src="images/prototype2.png" width="100%">
 
-[Prototype 2](https://jorienkorn.github.io/Web-Typography/closed-captions-v2/index.html)
-
-In deze versie heb ik gewerkt aan de vorige punten die ik heb meegekregen, ik heb bijvoorbeeld nu alle geluiden gevisualiseerd 
+In deze versie heb ik gewerkt aan de punten die ik de vorige keer heb gekregen, ik heb bijvoorbeeld nu alle geluiden gevisualiseerd en ook de vormgeving meer aangepast aan de sfeer van de film. Dit heb ik gedaan door het kleurgebruik, de typografie aan te passen (zie 'Gemaakte keuzes' voor onderbouwing hiervan) en de achtergrond kleur te veranderen.
 
 ### Darice
 * Vond de geluiden goed visueel uitgewerkt en ondersteunend
 * "Fuck off, skin job!" op het scherm leuk, het springt er even tussenuit maar is niet afleidend
 * Lettertype mag groter, het is nu erg klein en moeilijk om te lezen
-* Heeft behoefte aan zowel de beschrijving van het geluid in brackets als de visuele uitwerking ervan zodat ze weet aan welk geluid ze moet denken
+* Heeft behoefte aan zowel de beschrijving van het geluid in brackets als de visuele uitwerking ervan zodat ze weet aan welk geluid ze precies moet denken
 
 ### Vasilis
 * Wilt graag screenshots in de read.me zien voor de onderbouwingen
 * Vond de uitwerking van de geluiden ook erg leuk
 
 
-## Eindversie
+## [Eindversie](https://jorienkorn.github.io/Web-Typography/closed-captions-v3/index.html)
 <img src="images/prototype3.png" width="100%">
 
-[Eindversie](https://jorienkorn.github.io/Web-Typography/closed-captions-v3/index.html)
-
-In deze versie heb ik ook het achtergrond geluid in het begin uitgewerkt
+In deze versie heb ik de feedback van vorige keer verwerkt en de scenes verder uitgewerkt. Ik heb bijvoorbeeld ook het achtergrond geluid in het begin gevisualiseerd en het geluid in de tweede scene.
 
 
 # Gemaakte keuzes
 
 ## Typografie
+<img src="images/prototype3.png" width="50%"><img src="images/prototype3.png" width="50%">
+
 Ik heb ervoor gekozen om toch wel gebruik te maken van het Brenner font, specifiek de 'Mono' type, omdat ik dit beter bij de film vind passen. De film is futuristisch en in het fragment wordt Joe ondervraagt door een robot. Er is een lack aan emotie en daar vind ik het lettertype erg goed voor.
 
 ## Kleur en vlakverdeling
