@@ -1,22 +1,19 @@
 # Web Typography by Jorien Korn
  
-Voor dit vak bewerk ik een fragment van de film Blade Runner 2049 op een manier dat de emotie die hoort bij dit fragment voor iemand die doof is nog steeds overkomt. Met de hedendaagse guidelines die gebruikt worden voor closed captioning komt er geen emotie naar voren. Er staat bijvoorbeeld heel statisch '[music is playing]' maar muziek is niet statisch, is het hard? snel? luid? zacht? rock? romantisch? Dit verschilt per film, per scene. Voor iemand die niet kan horen gaat al deze informatie verloren. In het fragment van Blade Runner gaat het precies zo, het eigenlijk een hele saaie film qua beeld. Het geluid is wat deze scenes spannend maakt, aan mij de opdracht om dit te visualiseren.
+Voor dit vak bewerk ik een fragment van de film Blade Runner 2049 op een manier dat de emotie die hoort bij dit fragment voor iemand die doof is nog steeds overkomt. Met de hedendaagse guidelines die gebruikt worden voor closed captioning komt er geen emotie naar voren. Er staat bijvoorbeeld heel statisch '[music is playing]' maar muziek is niet statisch, is het hard? Snel? Luid? Zacht? Rock? Romantisch? Dit verschilt per film, per scene. Voor iemand die niet kan horen gaat al deze informatie verloren. In het fragment van Blade Runner 2049 gaat het precies zo, het eigenlijk een aardig saaie film qua beeld. Het geluid is wat deze scenes spannend maakt, aan mij de opdracht om dit te visualiseren.
 
 
-# Concept
+# Identiteiten vaststellen
 Dit fragment wordt specifiek voor één persoon ontworpen, en dat is Darice de Cuba in mijn geval. In het eerste kennismakingsgesprek heb ik haar een beetje leren kennen zodat ik met haar voorkeuren en inzichten te werk kan gaan en ze kan samenvoegen met de mijne en die van de film. 
 
 ## Darice de Cuba
 Darice is 38 jaar, woont in Den Haag en werkt als front-end developer. Ze is niet altijd al doof geweest, om deze reden weet ze wel nog hoe sommige geluiden zouden klinken. Ze is bijvoorbeeld erg fan van de TV show Friends en kan hun stemmen nog steeds herinneren. Qua vormgeving is ze de standaard regels gewent voor closed captions, bijvoorbeeld muziek en geluiden tussen brackets plaatsen (met een duidelijke omschrijving van wat!). Persoonlijk vind ze het erg fijn als de vormgeving van elke persoon anders is, dit hoeft niet over-the-top (ze houdt namelijk erg van minimalisme) maar het kan subtiel door alleen de kleur te veranderen bijvoorbeeld. Zolang deze vormgeving maar consistent is. Ook vind ze het fijn als de tekst bijvoorbeeld schuingedrukt komt te staan als de persoon niet in beeld is, dit is namelijk voor iemand die doof is niet te raden en een visuele que hiervoor zou dus ideaal zijn.
 
 ## Jorien Korn (me)
-Persoonlijk ben ik van een clean, consistente en soms wat minimalistische look. Ik vind snel dingen rommelig of too much en dat probeer ik altijd te voorkomen. Ik doe genoeg om de boodschap, look, feel, wat dan ook over te laten komen maar zonder dat het opdringerig is of in-your-face.
+Persoonlijk ben ik van een clean, consistente en soms wat minimalistische look. Ik vind snel dingen rommelig of too much en dat probeer ik altijd te voorkomen. Ik doe genoeg om de boodschap, look, feel, etc. over te laten komen maar zonder dat het opdringerig is of in-your-face.
 
 ## De film
 Ik keek de film pas nadat de opdracht werd gegeven dus ik lette vanaf het begin al erg op de geluiden in de film. Visueel gezien is het niet altijd even spannend, het is een futuristische film waar ze heel serieus te werk gaan. Gesprekken zijn monotoon, emotieloos en eigenlijk saai. De muziek bij de scenes is wat het spanning en een sfeer geeft.
-
-## Conclusie
-Voor het concept denk ik dat de indentiteiten van alle drie de partijen op de meeste vlakken overeen komt waardoor er een sterke consistente vormgeving kan ontstaan.
 
 
 # Proces
@@ -40,13 +37,14 @@ In het eerste prototype heb ik gebruik gemaakt van het systeemfont om het in eer
 ## [Prototype 2](https://jorienkorn.github.io/Web-Typography/closed-captions-v2/index.html)
 <img src="images/prototype2.png" width="100%">
 
-In deze versie heb ik gewerkt aan de punten die ik de vorige keer heb gekregen, ik heb bijvoorbeeld nu alle geluiden gevisualiseerd en ook de vormgeving meer aangepast aan de sfeer van de film. Dit heb ik gedaan door het kleurgebruik, de typografie aan te passen (zie 'Gemaakte keuzes' voor onderbouwing hiervan) en de achtergrond kleur te veranderen.
+In deze versie heb ik gewerkt aan de punten die ik de vorige keer heb gekregen, ik heb bijvoorbeeld nu alle geluiden gevisualiseerd en ook de vormgeving meer aangepast aan de sfeer van de film. Dit heb ik gedaan door het kleurgebruik en de typografie aan te passen (zie 'Gemaakte keuzes' voor onderbouwing hiervan) en de achtergrond kleur te veranderen.
 
 ### Darice
 * Vond de geluiden goed visueel uitgewerkt en ondersteunend
 * "Fuck off, skin job!" op het scherm leuk, het springt er even tussenuit maar is niet afleidend
 * Lettertype mag groter, het is nu erg klein en moeilijk om te lezen
 * Heeft behoefte aan zowel de beschrijving van het geluid in brackets als de visuele uitwerking ervan zodat ze weet aan welk geluid ze precies moet denken
+* Contrast van de muziek tekst mag wat hoger
 
 ### Vasilis
 * Wilt graag screenshots in de read.me zien voor de onderbouwingen
@@ -56,7 +54,7 @@ In deze versie heb ik gewerkt aan de punten die ik de vorige keer heb gekregen, 
 ## [Eindversie](https://jorienkorn.github.io/Web-Typography/closed-captions-v3/index.html)
 <img src="images/prototype3.png" width="100%">
 
-In deze versie heb ik de feedback van vorige keer verwerkt en de scenes verder uitgewerkt. Ik heb bijvoorbeeld ook het achtergrond geluid in het begin gevisualiseerd en het geluid in de tweede scene.
+In deze versie heb ik de feedback van vorige keer verwerkt en de scenes verder uitgewerkt. Ik heb bijvoorbeeld nu ook het achtergrond geluid in het begin gevisualiseerd en het geluid dat afspeelt in de tweede scene. Ik heb het lettertype vergroot zodat het beter leesbaar is, daarbij heb ik ook het beeld vergroot zodat er nog een goede verhouding is tussen tekst en beeld.
 
 
 # Gemaakte keuzes
@@ -64,11 +62,14 @@ In deze versie heb ik de feedback van vorige keer verwerkt en de scenes verder u
 ## Typografie
 <img src="images/prototype3.png" width="50%"><img src="images/prototype3.png" width="50%">
 
-Ik heb ervoor gekozen om toch wel gebruik te maken van het Brenner font, specifiek de 'Mono' type, omdat ik dit beter bij de film vind passen. De film is futuristisch en in het fragment wordt Joe ondervraagt door een robot. Er is een lack aan emotie en daar vind ik het lettertype erg goed voor.
+Ik heb ervoor gekozen om toch wel gebruik te maken van het Brenner font, specifiek en exclusief de 'Mono' type, omdat ik dit beter bij de film vind passen. De film is futuristisch en in het fragment wordt Joe ondervraagt door een robot. Er is een lack aan emotie en daar vind ik het lettertype op aansluiten omdat deze soort lettertypes vaak worden gebruikt voor technische/futuristische uitingen zoals code, robots en computers.
+
+Maar waarom alleen het 'Mono' type? Darice houdt van consistentie, ik van niet rommelig en de film is futuristisch, perfecte combinatie om exclusief gebruik te maken van dit lettertype. Darice vind verschillende lettertypes niet erg zolang ze maar consistent zijn met degene die praat, maar persoonlijk vind ik het dan rommelig worden. Hierboven heb ik daarvan een voorbeeld laten zien.
 
 ## Kleur en vlakverdeling
 <img src="images/prototype1.png" width="50%"><img src="images/prototype3.png" width="50%">
-Ook heb ik nog goed gekeken naar het kleurgebruik. Ik had in eerste instantie opgezocht welke kleuren vaak gebruikt worden voor ondertiteling en daarbij andere felle kleuren gezocht voor de rest van de stemmen. Na nog een keer goed te hebben gekeken heb ik doffe kleuren gekozen zodat dit ook aansluit bij het gevoel van de film.
+
+Ik had in eerste instantie opgezocht welke kleuren vaak gebruikt worden voor ondertiteling en daarbij andere felle kleuren gezocht voor de rest van de stemmen zodat het aansluit op Darice haar behoefte voor neon kleuren. Na nog een keer goed te hebben gekeken, heb ik doffe kleuren gekozen zodat dit ook aansluit bij het gevoel van de film, de film is namelijk erg grauw en serieus. Ondanks dat Darice neon kleuren erg leuk vind heb ik toch besloten om hiervoor te gaan. Ik neem op deze manier wel van haar mee dat ze verschillende kleuren fijn vind, alleen pas ik aan hoe fel deze zijn zodat het aansluit bij de identiteit van de film.
 
 
 # Exclusive Design Principles
