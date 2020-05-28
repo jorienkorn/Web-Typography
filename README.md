@@ -52,7 +52,7 @@ In deze versie heb ik gewerkt aan de punten die ik de vorige keer heb gekregen, 
 
 
 ## [Eindversie](https://jorienkorn.github.io/Web-Typography/closed-captions-v3/index.html)
-<img src="images/prototype3n.png" width="100%">
+<img src="images/prototype3.png" width="100%">
 
 In deze versie heb ik de feedback van vorige keer verwerkt, ik heb bijvoorbeeld het lettertype vergroot zodat het beter leesbaar is. Daarbij heb ik ook meteen het beeld vergroot zodat er nog een goede verhouding is tussen tekst en beeld. Andere dingen die ik heb aangepast zijn:
 * Achtergrond geluid in het begin gevisualiseerd
@@ -67,14 +67,14 @@ In deze versie heb ik de feedback van vorige keer verwerkt, ik heb bijvoorbeeld 
 # Gemaakte keuzes
 
 ## Typografie
-<img src="images/typovoorbeeld.png" width="50%"><img src="images/prototype3n.png" width="50%">
+<img src="images/typovoorbeeld.png" width="50%"><img src="images/prototype3.png" width="50%">
 
 Ik heb ervoor gekozen om toch wel gebruik te maken van het Brenner font, specifiek en exclusief de 'Mono' type, omdat ik dit beter bij de film vind passen. De film is futuristisch en in het fragment wordt Joe ondervraagt door een robot. Er is een lack aan emotie en daar vind ik het lettertype op aansluiten omdat deze soort lettertypes vaak worden gebruikt voor technische/futuristische uitingen zoals code, robots en computers.
 
 Maar waarom alleen het 'Mono' type? Darice houdt van consistentie, ik van niet rommelig en de film is futuristisch, perfecte combinatie om exclusief gebruik te maken van dit lettertype. Darice vind verschillende lettertypes niet erg zolang ze maar consistent zijn met degene die praat, maar persoonlijk vind ik het dan rommelig worden. Hierboven heb ik daarvan een voorbeeld laten zien.
 
 ## Kleur en vlakverdeling
-<img src="images/prototype1.png" width="50%"><img src="images/prototype3n.png" width="50%">
+<img src="images/prototype1.png" width="50%"><img src="images/prototype3.png" width="50%">
 
 Ik had in eerste instantie opgezocht welke kleuren vaak gebruikt worden voor ondertiteling en daarbij andere felle kleuren gezocht voor de rest van de stemmen zodat het aansluit op Darice haar behoefte voor neon kleuren. Na nog een keer goed te hebben gekeken, heb ik doffe kleuren gekozen zodat dit ook aansluit bij het gevoel van de film, de film is namelijk erg grauw en serieus. Ondanks dat Darice neon kleuren erg leuk vind heb ik toch besloten om hiervoor te gaan. Ik neem op deze manier wel van haar mee dat ze verschillende kleuren fijn vind, alleen pas ik aan hoe fel deze zijn en in welke tonen ze komen zodat het aansluit op de identiteit van de film.
 
