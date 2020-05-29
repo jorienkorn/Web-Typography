@@ -13,7 +13,7 @@ Darice is 38 jaar, woont in Den Haag en werkt als front-end developer. Ze is nie
 Persoonlijk ben ik van een clean, consistente en soms wat minimalistische look. Ik vind snel dingen rommelig of too much en dat probeer ik altijd te voorkomen. Ik doe genoeg om de boodschap, look, feel, etc. over te laten komen maar zonder dat het opdringerig is of in-your-face.
 
 ## De film
-Ik keek de film pas nadat de opdracht werd gegeven dus ik lette vanaf het begin al erg op de geluiden in de film. Visueel gezien is het niet altijd even spannend, het is een grauwe futuristische film waar ze heel serieus te werk gaan. Gesprekken zijn monotoon, emotieloos en eigenlijk saai. De muziek bij de scenes is wat het spanning en een sfeer geeft.
+Ik keek de film pas voor het eerst nadat de opdracht werd gegeven dus ik lette vanaf het begin al erg op de geluiden in de film. Visueel gezien is het niet altijd even spannend, het is een grauwe futuristische film waar ze heel serieus te werk gaan. Gesprekken zijn monotoon, emotieloos en eigenlijk saai. De muziek bij de scenes is wat het spanning en een sfeer geeft.
 
 
 # Proces
@@ -63,19 +63,40 @@ In deze versie heb ik de feedback van vorige keer verwerkt, ik heb bijvoorbeeld 
 * Een blur toegevoegd aan het einde van de high pitch zodat je sterker het gevoel krijgt dat het geluid heel hoog is
 
 
+## [Herkansing](https://jorienkorn.github.io/Web-Typography/closed-captions-v4/index.html)
+<img src="images/prototype4.png" width="100%">
+
+Tijdens het gesprek voor de eindbeoordeling kwam naar voren dat het fragment qua typografie niet spannend is. "Opvallend onopvallend" noemde Vasilis het. Dit is natuurlijk niet de bedoeling, en heb ik dus besloten om er nog is even goed naar te kijken. Ik ging in eerste instantie alleen voor ```Brenner Mono Light``` voor alle tekst omdat ik dit het beste bij de sfeer en genre van de film vond passen. Hierbij heb ik niet verder nagedacht of dit lettertype ook wel het beste bij de tone-of-voice van de verschillende characters past. In deze versie heb ik dus vooral gefocust op de keuze van de verschillende stijlen van het lettertype, zie hieronder ('Gemaakte keuzes') voor verdere onderbouwing.
+
+* Naast typografie heb ik ook in scene 2 nog een aanpassing gemaakt. Als er op het beeldscherm komt te staan "anomally detected" verkleurt de zwarte achtergrond naar rood in plaats van grijs/groen zoals in het begin. Dit is omdat hij de baseline test gaat falen omdat hij emotie toont, dus vandaar de rode kleur voor gevaar.
+
+
 # Gemaakte keuzes
 
 ## Typografie
-<img src="images/typovoorbeeld.png" width="50%"><img src="images/prototype3.png" width="50%">
+<img src="images/prototype1.png" width="50%"><img src="images/prototype3.png" width="50%">
 
-Ik heb ervoor gekozen om toch wel gebruik te maken van het Brenner font, specifiek en exclusief de 'Mono' type, omdat ik dit beter bij de film vind passen. De film is futuristisch en in het fragment wordt Joe ondervraagt door een robot. Er is een lack aan emotie en daar vind ik het lettertype op aansluiten omdat deze soort lettertypes vaak worden gebruikt voor technische/futuristische uitingen zoals code, robots en computers.
+Ik heb ervoor gekozen om toch wel gebruik te maken van het Brenner font in plaats van het systeemfont. De film is futuristisch en heeft een onderliggende donkere, monotone toon. Af en toe zit er wel wat emotie in, Brenner geeft hier de mogelijkheid voor om dit uit te drukken dankzij de verschillende stijlen.
 
-Maar waarom alleen het 'Mono' type? Darice houdt van consistentie, ik van niet rommelig en de film is futuristisch, perfecte combinatie om exclusief gebruik te maken van dit lettertype. Darice vind verschillende lettertypes niet erg zolang ze maar consistent zijn met degene die praat, maar persoonlijk vind ik het dan rommelig worden. Ook vind ik niet dat de andere Brenner versies dezelfde sfeer dragen als de film zoals Mono dat doet. Hierboven heb ik daarvan een voorbeeld laten zien.
+### Joe
+Voor deze persoon heb ik in scene 1 ```Brenner Mono Light``` en in scene 2 ```Brenner Sans Light``` gebruikt in de kleur wit. In scene 1 gebruik ik de Mono type omdat de baseline test checkt of je emotie hebt, aangezien Joe dat in deze scene niet heeft kies ik voor een emotieloos lettertype. De Mono type is daar goed voor omdat deze vaak wordt gebruikt voor technische/futuristische uitingen zoals code, robots en computers. In scene 2 begint Joe wel vertoningen van emotie te laten zien en kies ik dus voor een neutraal lettertype. De kleur wit heb ik voor hem gekozen omdat hij de hoofdpersoon is en dus het meeste aan het woord is, het is fijn als hij een standaard kleur heeft zodat het goed afwisselt met een andere stem die in kleur voorkomt.
+
+### Male interviewer
+Voor deze stem heb ik ```Brenner Regular Light``` gebruikt in de kleur geel. De stem behoort toe aan een robot, de robot praat op een monotone manier zonder enige emotie. Vandaar dat ik voor hem het Mono type heb gekozen, om dezelfde reden als die bij Joe genoemd is. Voor hem heb ik het in Regular gedaan in plaats van Light omdat de robot intimiderender is dan Joe, dit komt omdat hij een test aflegt aan Joe. De kleur geel heb ik voor hem gedaan omdat dit naast wit het meest gebruikt wordt voor ondertiteling. Ook past de kleur daarbij in het kleurenpallet van de film.
+
+### Stranger
+Voor deze persoon heb ik ```Brenner Sans Bold``` gebruikt in de kleur rood. Ik heb voor hem Sans Bold gekozen omdat hij Joe uitscheldt op een agressieve, verwijtende manier. Omdat hij emotie toont krijgt hij dus geen Mono type, maar een neutraal lettertype. Dit is voor hem in de kleur rood omdat dit past bij de boosheid die hij uitstraalt in die zin en in bold vanwege zijn toon en agressie.
+
+### Male voice
+Voor deze persoon heb ik ```Brenner Sans Light``` gebruikt in de kleur oranje. Er is niet veel over hem bekend aangezien we hem niet zien, maar wel is de manier te horen hoe hij 'Constant K' zegt. Hij zegt dit op een soort van luchtige manier, dus kan ik ervan uitgaan dat hij niet zo emotieloos is zoals de robot. Vandaar dus de keuze voor Brenner Sans, een neutraal lettertype. In de kleur oranje omdat dit goed leesbaar is en past bij de rest van de kleuren.
+
+### Muziek
+Voor de muziek heb ik ```Brenner Mono Light``` gebruikt in de kleur licht grijs. Dit heb ik gedaan omdat de muziek de identiteit van de film weergeeft, deze is grauw en duister. De muziek is onheilspellend en de geluiden lijken te komen van machines, om deze reden kies ik ook ervoor om de muziek om te weergeven in Mono type. De kleur die ik daarvoor heb gebruikt is licht grijs omdat het niet moet vloeken met de kleuren van de characters en het moet ook niet de aandacht van het dialoog wegnemen.
 
 ## Kleur en vlakverdeling
 <img src="images/prototype1.png" width="50%"><img src="images/prototype3.png" width="50%">
 
-Ik had in eerste instantie opgezocht welke kleuren vaak gebruikt worden voor ondertiteling en daarbij andere felle kleuren gezocht voor de rest van de stemmen zodat het aansluit op Darice haar behoefte voor neon kleuren. Na nog een keer goed te hebben gekeken, heb ik doffe kleuren gekozen zodat dit ook aansluit bij het gevoel van de film, de film is namelijk erg grauw en serieus. Ondanks dat Darice neon kleuren erg leuk vind heb ik toch besloten om hiervoor te gaan. Ik neem op deze manier wel van haar mee dat ze verschillende kleuren fijn vind, alleen pas ik aan hoe fel deze zijn en in welke tonen ze komen zodat het aansluit op de identiteit van de film.
+Eigenlijk heb ik de kleuren hierboven al behandeld per individu, maar hier zal ik nog wat meer ingaan op de algemene gedachte en keuze erachter. Ik had in eerste instantie opgezocht welke kleuren vaak gebruikt worden voor ondertiteling en daarbij andere felle kleuren gezocht voor de rest van de stemmen zodat het aansluit op Darice haar behoefte voor neon kleuren. Na nog een keer goed te hebben gekeken, heb ik doffe kleuren gekozen zodat dit ook aansluit bij het gevoel van de film, de film is namelijk erg grauw en serieus. Ondanks dat Darice neon kleuren erg leuk vind heb ik toch besloten om hiervoor te gaan. Ik neem op deze manier wel van haar mee dat ze verschillende kleuren fijn vind, alleen pas ik aan hoe fel deze zijn en in welke tonen ze komen zodat het aansluit op de identiteit van de film.
 
 Ik heb ervoor gekozen om het beeld in het midden te zetten zodat er een goede verhouding is tussen links en rechts. Soms komt een geluid van links en daarna van rechts, op deze manier heb ik aan beide kanten genoeg ruimte om de visualisaties te laten zien.
 

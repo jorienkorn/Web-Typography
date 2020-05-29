@@ -1,0 +1,783 @@
+/*  G E N E R A L  */
+
+body {
+    background-color: black;
+    height: 100vh;
+}
+
+#video-placeholder {
+    display: flex;
+    margin: auto;
+    margin-top: 6em;
+    width: 125vh;
+    height: 65vh;
+    padding-bottom: 2em;
+    background-color: black;
+}
+
+#closed-captions p {
+    opacity: 0;
+    transition: .05s;
+    position: absolute;
+    font-size: 1.1em;
+    width: 120vh;
+}
+
+#closed-captions .on {
+    opacity: 1;
+    z-index: 99;
+}
+
+#closed-captions .off {
+    transition: .2s;
+    opacity: 0;
+    z-index: 99;
+}
+
+
+
+
+/*  D E  S T E M M E N  */
+
+.voice1 /*male interviewer*/ {
+    color: yellow;
+    font-family: "Brenner Mono Regular";
+    font-style: Normal;
+    font-weight: 400;
+    letter-spacing: -1px;
+    margin-top: -4em;
+    margin-left: 16.5em;
+    z-index: 99;
+}
+
+.voice1off /*male interviewer off screen*/ {
+    color: yellow;
+    font-family: "Brenner Mono Regular Italic";
+    font-style: Italic;
+    font-weight: 400;
+    letter-spacing: -1px;
+    margin-top: -4em;
+    margin-left: 16.5em;
+    z-index: 99;
+}
+
+.voice2 /*joe*/ {
+    color: white;
+    font-family: "Brenner Mono Light";
+    font-style: Normal;
+    font-weight: 200;
+    letter-spacing: -1px;
+    margin-top: -4em;
+    margin-left: 16.5em;
+    z-index: 99;
+}
+
+.voice2off /*joe off screen*/ {
+    color: white;
+    font-family: "Brenner Mono Light Italic";
+    font-style: italic;
+    font-weight: 200;
+    letter-spacing: -1px;
+    margin-top: -4em;
+    margin-left: 16.5em;
+    z-index: 99;
+}
+
+.voice2s2 /*joe in scene 2*/ {
+    color: white;
+    font-family: "Brenner Sans Light";
+    font-style: normal;
+    font-weight: 200;
+    letter-spacing: 0.1em;
+    margin-top: -4em;
+    margin-left: 16.5em;
+    z-index: 99;
+}
+
+.voice3 /*stranger*/ {
+    color: orangered;
+    font-family: "Brenner Sans Bold";
+    font-style: Normal;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    position: absolute;
+    margin-top: -12em;
+    margin-left: 20em;
+    z-index: 99;
+}
+
+.voice4 /*unindentified man*/ {
+    color: sandybrown;
+    font-family: "Brenner Sans Light";
+    font-style: italic;
+    font-weight: 200;
+    letter-spacing: 0.1em;
+    margin-top: -4em;
+    margin-left: 16.5em;
+    z-index: 99;
+}
+
+.music {
+    font-family: "Brenner Mono Light";
+    font-style: normal;
+    font-weight: 200;
+    letter-spacing: -1px;
+    color: #B3B3B3;
+    margin-top: -1.2em;
+    margin-left: 16.5em;
+}
+
+
+
+
+/*  S O U N D  0:  B A C K G R O U N D  M U S I C  */
+
+.sound0 {
+    animation-duration: 9s;
+    animation-name: backgroundMusic;
+    animation-iteration-count: ease;
+}
+
+@keyframes backgroundMusic {
+    0% {
+        background-color: #000000;
+    }
+
+    1% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    2% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    3% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    4% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    5% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    6% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    7% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    8% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    9% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    10% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    11% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    12% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    13% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    14% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    15% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    16% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 100%);
+    }
+
+    20% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 100%);
+    }
+
+    21% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    22% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    23% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    24% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    25% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    26% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    27% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    28% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    29% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    30% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    31% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    32% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    33% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    34% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 100%);
+    }
+
+    38% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 100%);
+    }
+
+    39% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    40% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    41% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    42% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    43% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    44% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    45% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    46% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    47% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    48% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    49% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    50% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    51% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    52% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    53% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    54% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    55% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    56% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 100%);
+    }
+
+    60% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 100%);
+    }
+
+    61% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    62% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    63% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    64% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    65% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    66% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    67% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    68% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    69% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    70% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    71% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    72% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    73% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    74% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 100%);
+    }
+
+    78% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 100%);
+    }
+
+    79% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    80% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 0.5) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    81% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    82% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    83% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    84% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    85% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    86% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 0.5) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    87% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    88% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    89% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    90% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    91% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    92% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    93% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    94% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 60%);
+    }
+
+    95% {
+        background: radial-gradient(circle, rgba(58, 62, 54, 1) 0%, rgba(0, 0, 0, 1) 40%);
+    }
+
+    100% {
+        background-color: #000000;
+    }
+}
+
+
+
+
+/*  S O U N D  1:  A L A R M  */
+
+.sound1 {
+    animation-duration: 1s;
+    animation-name: alarmAnimation;
+    animation-iteration-count: ease-in-out;
+}
+
+@keyframes alarmAnimation {
+    0% {
+        background-color: #000000;
+    }
+
+    20% {
+        background: radial-gradient(circle, rgba(0, 0, 0, 1) 50%, rgba(190, 22, 34, 1) 100%);
+    }
+
+    60% {
+        background: radial-gradient(circle, rgba(0, 0, 0, 1) 15%, rgba(190, 22, 34, 1) 100%);
+    }
+
+    80% {
+        background: radial-gradient(circle, rgba(0, 0, 0, 1) 50%, rgba(190, 22, 34, 1) 100%);
+    }
+
+    100% {
+        background-color: #000000;
+    }
+}
+
+
+
+
+/*  S O U N D  2:  S I R E N E  */
+
+.sound2 {
+    animation-duration: 1s;
+    animation-name: sireneAnimation;
+    animation-iteration-count: ease-in-out;
+    transition: background 1s linear;
+}
+
+@keyframes sireneAnimation {
+    0% {
+        background-color: #000000;
+    }
+
+    25% {
+        background: linear-gradient(90deg, rgba(0, 0, 0, 1) 25%, rgba(190, 22, 34, 1) 50%, rgba(190, 22, 34, 1) 50%, rgba(0, 0, 0, 1) 75%);
+    }
+
+    75% {
+        background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(190, 22, 34, 1) 50%, rgba(190, 22, 34, 1) 50%, rgba(0, 0, 0, 1) 100%);
+    }
+
+    100% {
+        background-color: #000000;
+    }
+}
+
+
+
+
+/*  S O U N D  3 - 7:  S C A N N E R  W H I R R I N G  */
+
+.sound3 {
+    animation-duration: 2.5s;
+    animation-name: dialtoneEen;
+    animation-iteration-count: ease-in-out;
+}
+
+.sound5 {
+    animation-duration: 2.5s;
+    animation-name: dialtoneTwee;
+    animation-iteration-count: ease-in-out;
+}
+
+.sound7 {
+    animation-duration: 2.5s;
+    animation-name: dialtoneDrie;
+    animation-iteration-count: ease-in-out;
+}
+
+@keyframes dialtoneEen {
+    0% {
+        background-color: #000000;
+    }
+
+    25% {
+        background: linear-gradient(90deg, rgba(190, 22, 34, 1) 0%, rgba(0, 0, 0, 1) 25%);
+    }
+
+    75% {
+        background: linear-gradient(270deg, rgba(97, 190, 22, 1) 0%, rgba(0, 0, 0, 1) 25%);
+    }
+
+    100% {
+        background-color: #000000;
+    }
+}
+
+@keyframes dialtoneTwee {
+    0% {
+        background-color: #000000;
+    }
+
+    25% {
+        background: linear-gradient(90deg, rgba(190, 22, 34, 1) 0%, rgba(0, 0, 0, 1) 25%);
+    }
+
+    75% {
+        background: linear-gradient(270deg, rgba(97, 190, 22, 1) 0%, rgba(0, 0, 0, 1) 25%);
+    }
+
+    100% {
+        background-color: #000000;
+    }
+}
+
+@keyframes dialtoneDrie {
+    0% {
+        background-color: #000000;
+    }
+
+    25% {
+        background: linear-gradient(90deg, rgba(190, 22, 34, 1) 0%, rgba(0, 0, 0, 1) 25%);
+    }
+
+    75% {
+        background: linear-gradient(270deg, rgba(97, 190, 22, 1) 0%, rgba(0, 0, 0, 1) 25%);
+    }
+
+    100% {
+        background-color: #000000;
+    }
+}
+
+
+
+
+/*  S O U N D  9:  H I G H  P I T C H  */
+
+body.sound9 {
+    animation-duration: 42s;
+    animation-name: highPitch;
+    animation-iteration-count: ease-in;
+    z-index: 2;
+}
+
+@keyframes highPitch {
+    0% {
+        background-color: black;
+    }
+
+    98% {
+        background-color: white;
+    }
+
+    100% {
+        background-color: black;
+    }
+}
+
+.sound9 iframe {
+    animation-duration: 42s;
+    animation-name: blurring;
+    animation-iteration-count: ease-in;
+    z-index: 3;
+}
+
+@keyframes blurring {
+    0% {
+        filter: blur(0em);
+    }
+
+    85% {
+        filter: blur(0em);
+    }
+
+    98% {
+        filter: blur(0.2em);
+    }
+
+    100% {
+        filter: blur(0em);
+    }
+}
+
+
+
+
+/*  S C E N E  T W E E:  S O U N D  1 0  */
+
+.sound10 iframe {
+    animation-name: geluidTrilling;
+    animation-duration: 0.2s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+    animation-fill-mode: forwards;
+}
+
+@keyframes geluidTrilling {
+    0% {
+        transform: translate(0.1em, 0em);
+    }
+
+    50% {
+        transform: translate(0em, 0em);
+    }
+
+    100% {
+        transform: translate(0.1em, 0em);
+    }
+}
+
+
+
+
+/*  S C E N E  T W E E:  S O U N D  1 0  S T O P P E N  */
+
+.sound11 iframe {
+    animation-name: geluidTrillingStop;
+    animation-duration: 0.2s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+    animation-fill-mode: forwards;
+}
+
+@keyframes geluidTrillingStop {
+    0% {
+        transform: translate(0em, 0em);
+    }
+
+    50% {
+        transform: translate(0em, 0em);
+    }
+
+    100% {
+        transform: translate(0em, 0em);
+    }
+}
+
+
+
+
+/*  S C E N E  T W E E:  S O U N D  1 1  */
+
+body.sound12 {
+    animation-duration: 52s;
+    animation-name: bodyGeluid;
+    animation-iteration-count: ease-in;
+    z-index: 2;
+    transition-property: background-color;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+}
+
+@keyframes bodyGeluid {
+    0% {
+        background-color: #000000;
+    }
+
+    5% {
+        background-color: #000000;
+    }
+
+    17% {
+        background-color: #A6B29E;
+    }
+
+    27% {
+        background-color: #000000;
+    }
+
+    34% {
+        background-color: #000000;
+    }
+
+    46% {
+        background-color: #be1622;
+    }
+
+    60% {
+        background-color: #A6B29E;
+    }
+
+    68% {
+        background-color: #be1622;
+    }
+
+    82% {
+        background-color: #000000;
+    }
+
+    100% {
+        background-color: #000000;
+    }
+}
