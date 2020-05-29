@@ -91,7 +91,7 @@ Voor deze persoon heb ik ```Brenner Sans Bold``` gebruikt in de kleur rood. Ik h
 Voor deze persoon heb ik ```Brenner Sans Light``` gebruikt in de kleur oranje. Er is niet veel over hem bekend aangezien we hem niet zien, maar wel is de manier te horen hoe hij 'Constant K' zegt. Hij zegt dit op een soort van luchtige manier, dus kan ik ervan uitgaan dat hij niet zo emotieloos is zoals de robot. Vandaar dus de keuze voor Brenner Sans, een neutraal lettertype. In de kleur oranje omdat dit goed leesbaar is en past bij de rest van de kleuren.
 
 ### Muziek
-Voor de muziek heb ik ```Brenner Mono Light``` gebruikt in de kleur licht grijs. Dit heb ik gedaan omdat de muziek de identiteit van de film weergeeft, deze is grauw en duister. De muziek is onheilspellend en de geluiden lijken te komen van machines, om deze reden kies ik ook ervoor om de muziek om te weergeven in Mono type. De kleur die ik daarvoor heb gebruikt is licht grijs omdat het niet moet vloeken met de kleuren van de characters en het moet ook niet de aandacht van het dialoog wegnemen.
+Voor de muziek heb ik ```Brenner Mono Light``` gebruikt in de kleur licht grijs. Dit heb ik gedaan omdat de muziek de identiteit van de film weergeeft, deze is grauw en duister. De muziek is onheilspellend en de geluiden lijken te komen van machines, om deze reden kies ik ervoor om de muziek ook te weergeven in Mono type. De kleur die ik daarvoor heb gebruikt is licht grijs omdat het niet moet vloeken met de kleuren van de characters en het moet ook niet de aandacht van het dialoog wegnemen.
 
 ## Kleur en vlakverdeling
 <img src="images/prototype1.png" width="50%"><img src="images/prototype3.png" width="50%">
