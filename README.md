@@ -104,16 +104,12 @@ Ik heb ervoor gekozen om het beeld in het midden te zetten zodat er een goede ve
 # Exclusive Design Principles
 
 ## Study situation
-Ik ken niemand die doof is maar ben er wel al een paar jaar bewust van dat het hier en daar een hindernis kan zijn. Ik heb daarom weleens geprobeerd om basic gebarentaal te leren (just in case) en bij YouTube videos closed captions te voorzien. Qua vormgeving op het niveau wat we nu doen weet ik eigenlijk niks van, daarom heb ik eerst wat artikelen gelezen (zie 'Bronnen' onderaan) over regels voor ondertiteling en specifiek voor dove mensen zodat ik meer te weten kwam over hoe dit te werk gaat en toegepast wordt. Wel vond ik het lastig om informatie te vinden over hoe je geluiden kan visualiseren voor dove mensen, dit is iets wat ik zelf heb moeten ervaren en uitvinden tijdens de feedbackgesprekken met Darice.
+Ik ken niemand die doof is maar ben er wel al een paar jaar bewust van dat het hier en daar een hindernis kan zijn, ik probeer daarom bij YouTube videos closed captions te voorzien. Qua vormgeving daarvan op het niveau wat we nu doen weet ik eigenlijk niks van, daarom heb ik eerst wat artikelen gelezen (zie 'Bronnen' onderaan) over regels voor ondertiteling en specifiek voor dove mensen zodat ik meer te weten kwam over hoe dit te werk gaat en toegepast wordt. Wel vond ik het lastig om informatie te vinden over hoe je geluiden kan visualiseren voor dove mensen, dit is iets wat ik zelf heb moeten ervaren en uitvinden tijdens de feedbackgesprekken met Darice.
+
+Ook om een beter beeld te krijgen van de .. het fragment, heb ik de gehele film bekeken. Door de hele film te kijken kon ik begrijpen waar de baseline test over gaat en wat het inhoudt. Deze informatie kon ik gebruiken om het gevoel visueel te vertalen voor Darice.
 
 ## Ignore conventions
-Het "normale" om te doen bij een film die voor dove mensen toegankelijk moet zijn is closed captions toevoegen en that's it. Met deze opdracht ging ik veel verder dan dat. Er verschijnen kleuren en gradients in bepaalde vormen om geluiden visueel uit te beelden in de ruimte om de film heen en het beeld begint zelfs met schudden op een gegeven moment. Dit is niet iets wat je standaard ziet bij een film, maar wel wat nodig is om de doelgroep die doof is een bepaalde sfeer van de scene en geluiden mee te geven. Ook is de tekst normaal standaard maar één kleur, in deze uitwerking heeft elke character zijn eigen kleur.
-
-## Prioritise identity
-Darice staat voorop omdat zij degene is die mijn ontwerp ervaart, zij is degene die een fijne en versterkte ervaring moet krijgen van deze scenes aangezien dit momenteel voor haar ontbreekt. Haar voorkeuren en ervaring in combinatie met mijn kennis en eigen identiteit hebben ervoor gezorgt dat ik veel keuzes kon maken en feedback kon nemen van Darice en die kunnen vertalen naar een uiting die een unieke kijkervaring voor haar biedt.
-
-## Add nonsense
-Ik vond het heel raar om dingen om het beeld heen toe te voegen, dat hoort toch namelijk niet? Maar toch heb ik gradients in de vorm van een scanner toegevoegd, of een schuddend beeld, of een achtergrond die van kleur verandert gebaseerd op de muziek. Ook komt "Fuck off, skin job!" op het beeld te staan bij de persoon die het zegt. Als je het vergelijkt met wat nu de standaard is, slaat dit allemaal nergens op. Terwijl in context, een film net zo toegankelijk maken voor dove mensen, is het hartstikke logisch en zou de nieuwe standaard moeten zijn.
+Het "normale" om te doen bij een film die voor dove mensen toegankelijk moet zijn is closed captions toevoegen en that's it. Met deze opdracht ging ik veel verder dan dat. In de ruimte om het fragment heen verschijnen kleuren en gradients in bepaalde vormen om geluiden visueel uit te beelden. Op een moment begint het beeld zelfs met schudden. Dit is niet iets wat je standaard ziet bij een film, maar wel wat nodig is om de doelgroep die doof is een bepaalde sfeer van de scene en geluiden mee te geven. Ook is de tekst normaal standaard maar één kleur, in deze uitwerking heeft elke character zijn eigen kleur en eigen stijl van het Brenner font.
 
 
 # Bronnen
