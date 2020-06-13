@@ -27,7 +27,7 @@ In het eerste prototype heb ik gebruik gemaakt van het systeemfont om het in eer
 * Er is nog geen onderscheid tussen Joe's binnenstem en stem als hij in beeld is (alles is cursief)
 * De groen gebruikt voor "Fuck off, skin job!" was niet goed te lezen
 * Ze wilt zoveel mogelijk geluiden (gevisualiseerd) zien zodat ze de hele movie experience krijgt net zoals ons
-* Altijd [naam] als iemand aan het woord komt ondanks dat de vormgeving al bekend is
+* Altijd [naam] als iemand aan het woord komt ondanks dat de vormgeving al bekend is van die persoon
 
 ### Vasilis
 * Ik mag veel verder gaan dan dit, ook het beeld mag bewerkt en verplaatst worden, niet alleen de typografie/tekst
@@ -104,9 +104,9 @@ Ik heb ervoor gekozen om het beeld in het midden te zetten zodat er een goede ve
 # Exclusive Design Principles
 
 ## Study situation
-Ik ken niemand die doof is maar ben er wel al een paar jaar bewust van dat het hier en daar een hindernis kan zijn, ik probeer daarom bij YouTube videos closed captions te voorzien. Qua vormgeving daarvan op het niveau wat we nu doen weet ik eigenlijk niks van, daarom heb ik eerst wat artikelen gelezen (zie 'Bronnen' onderaan) over regels voor ondertiteling en specifiek voor dove mensen zodat ik meer te weten kwam over hoe dit te werk gaat en toegepast wordt. Wel vond ik het lastig om informatie te vinden over hoe je geluiden kan visualiseren voor dove mensen, dit is iets wat ik zelf heb moeten ervaren en uitvinden tijdens de feedbackgesprekken met Darice.
+Qua vormgeving van de closed captions op het niveau wat we nu doen weet ik eigenlijk niks van, daarom heb ik eerst wat artikelen gelezen (zie 'Bronnen' onderaan) over regels voor ondertiteling en specifiek voor dove mensen zodat ik meer te weten kwam over hoe dit te werk gaat en toegepast wordt. Wel vond ik het lastig om informatie te vinden over hoe je geluiden kan visualiseren voor dove mensen, dit is iets wat ik zelf heb moeten ervaren en uitvinden tijdens de feedbackgesprekken met Darice en daar heb ik dan ook optimaal gebruik van gemaakt.
 
-Ook om een beter beeld te krijgen van de .. het fragment, heb ik de gehele film bekeken. Door de hele film te kijken kon ik begrijpen waar de baseline test over gaat en wat het inhoudt. Deze informatie kon ik gebruiken om het gevoel visueel te vertalen voor Darice.
+Verder heb ik, om een beter beeld te krijgen van de .. het fragment, de gehele film bekeken. Door de hele film te kijken kon ik begrijpen waar de baseline test over gaat en wat het inhoudt. Deze informatie kon ik gebruiken om het gevoel visueel te vertalen voor Darice.
 
 ## Ignore conventions
 Het "normale" om te doen bij een film die voor dove mensen toegankelijk moet zijn is closed captions toevoegen en that's it. Met deze opdracht ging ik veel verder dan dat. In de ruimte om het fragment heen verschijnen kleuren en gradients in bepaalde vormen om geluiden visueel uit te beelden. Op een moment begint het beeld zelfs met schudden. Dit is niet iets wat je standaard ziet bij een film, maar wel wat nodig is om de doelgroep die doof is een bepaalde sfeer van de scene en geluiden mee te geven. Ook is de tekst normaal standaard maar één kleur, in deze uitwerking heeft elke character zijn eigen kleur en eigen stijl van het Brenner font.
